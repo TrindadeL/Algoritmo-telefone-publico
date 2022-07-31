@@ -1,0 +1,12 @@
+INÍCIO
+1. Tirar o fone do gancho;
+2. Ouvir o sinal de linha;
+3.Introduzir o cartão;
+4. Teclar o número desejado;
+5. Se der o sinal de chamar;
+  5.1 conversar;
+  5.2 desligar;
+  5.3 retirar o cartão;
+6. Senão
+  6.1 repetir;
+FIM  
